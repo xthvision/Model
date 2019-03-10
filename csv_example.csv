@@ -1,0 +1,18 @@
+,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19
+0,,"Sample
+Name",Name,Batch_No,Vial,Inj,"Inj.
+Vol.
+(uL)","Ch.
+No.","RT
+(min)","Std
+Weight","Std_
+DilnFactor","Std_
+WC_LOD","Std_
+Avg_Area",Potency,"Sample
+Weight",Dilution,"Spl_wc
+LOD_Solv","Sample
+Area
+(µV*sec)",Result,"Result
+Id"
+1,1,CefAxeAmorphous,Cyclohexane,CAANF18049,Tray2:8,1,1000,8,16.804,198.500,0.00200,0.00000,58.8658,99.500,203.2000,2.0000,0.00000,127025,84.0,15022
+2,Mean,,,,,,,,,,,,,,,,,127025,84.0,Name: Ethyl acetate

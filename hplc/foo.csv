@@ -1,0 +1,18 @@
+"","Sample
+Name","Name","Batch_No.","Vial","Inj","Inj.
+Vol.
+(uL)","Ch.
+No.","Std
+Weight","Std_
+DilnFactor","Std_
+WC_LOD","Std_
+Avg_Area","Potency","Sample
+Weight","Dilution","Spl_wc
+LOD_Solv","Avgwt
+_wtml","Sample
+Area
+(µV*sec)","Assay","Result
+Id"
+"1 2","Cefpodoxime Proxetil IP_1/1","sum","CDPNF18040","5 5","1 1","20.00","11","50.010","0.00050","0.00000","418014","744.300","51.1300","2000.0000","2.29000","1.00000","390029","695.178","18883"
+"","Cefpodoxime Proxetil IP_1/2","sum","CDPNF18040","","","20.00","12","50.010","0.00050","0.00000","418014","744.300","51.1300","2000.0000","2.29000","1.00000","389827","694.819","18884"
+"Mean","","","","","","","","","","","","","","","","","389928","695.0",""
